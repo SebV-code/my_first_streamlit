@@ -56,7 +56,7 @@ if page == "Accueil":
     
     # Texte explicatif supplémentaire
     st.write(
-        "Ce dashboard est conçu pour vous fournir une vue d'ensemble rapide de vos données et analyses."
+        "Test d'actualisation du commit."
     )
 
 ##############################################################################

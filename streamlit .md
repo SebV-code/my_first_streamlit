@@ -122,7 +122,7 @@ if page == "Accueil":
     
     # Texte explicatif supplémentaire
     st.write(
-        "Test d'actualisation du commit."
+        "Ce dashboard est conçu pour vous fournir une vue d'ensemble rapide de vos données et analyses."
     )
 ```
 

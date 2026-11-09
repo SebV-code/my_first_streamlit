@@ -48,7 +48,7 @@ if page == "Accueil":
     st.image(
         "./rss/images/Capture.png",
         caption="Yeaah",
-        width="center"
+        width="content"
     )
 
     # Ajouter un résumé ou indicateur simple

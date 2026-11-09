@@ -1,0 +1,12 @@
+[theme] 
+primaryColor="#294e2b" 
+backgroundColor="#fcf8e7"  
+secondaryBackgroundColor="#86c09e" 
+textColor="#2D2D2D" 
+font="serif"
+
+[global]
+gatherUsageStats = true
+
+[browser]
+serverHeadless = false

@@ -46,7 +46,7 @@ if page == "Accueil":
 
     # Ajouter une image depuis une URL publique (version moderne)
     st.image(
-        "./rss/images/capture.png",
+        "./rss/images/Capture.png",
         caption="Yeaah",
         width="stretch"
     )

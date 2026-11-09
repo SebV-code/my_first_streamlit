@@ -32,7 +32,7 @@ page = st.sidebar.selectbox(
 ##############################################################################
 
 if page == "Accueil":
-    st.title("Bienvenue sur le Dashboard")
+    st.title("Awesome Dashboard")
 
     # Texte introductif
     st.write(
@@ -46,13 +46,13 @@ if page == "Accueil":
 
     # Ajouter une image depuis une URL publique (version moderne)
     st.image(
-        "https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png",
-        caption="Logo Streamlit",
-        use_container_width=True
+        "./rss/images/capture.png",
+        caption="Yeaah",
+        width="stretch"
     )
 
     # Ajouter un résumé ou indicateur simple
-    st.metric(label="Nombre de visiteurs", value="1 234", delta="+12%")
+    st.metric(label="Nombre de visiteurs", value="3", delta="+16%")
     
     # Texte explicatif supplémentaire
     st.write(
